@@ -4,8 +4,8 @@
 
 ### Exploratory Data Analysis 
 
-Caffeine Content(/sample_page)
-<img src="images/DrinksWithHighestCaffeineContent.png?raw=true"/>
+[Caffeine Content](/sample_page)
+<img src="images/CaffeineMolecule.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
